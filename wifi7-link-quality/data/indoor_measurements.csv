@@ -1,0 +1,19 @@
+scenario,band,rssi_dbm,snr_db,note
+Same room (LOS),2.4 GHz,-28,36,Channel 6
+Same room (LOS),5 GHz,-26,42,Channel 36
+Same room (LOS),6 GHz,-22,48,6 GHz channel 5
+1 wall,2.4 GHz,-38,28,1.5 m
+2 walls,2.4 GHz,-48,18,5 m
+3 walls,2.4 GHz,-57,10,10 m
+1 wall,5 GHz,-35,33,
+2 walls,5 GHz,-47,21,
+3 walls,5 GHz,-61,8,
+1 wall,6 GHz,-31,39,
+2 walls,6 GHz,-48,20,
+3 walls,6 GHz,-68,2,
+Floor 2,2.4 GHz,-52,16,Fair
+Floor 3,2.4 GHz,-67,5,Weak
+Floor 2,5 GHz,-55,13,Weak
+Floor 3,5 GHz,-71,2,Very weak
+Floor 2,6 GHz,-62,6,Weak
+Floor 3,6 GHz,-84,0.9,No reliable signal
